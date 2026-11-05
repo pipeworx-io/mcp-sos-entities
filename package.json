@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sos-entities",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "sos-entities — state business-entity registries in one normalised shape (fleet #2867).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "sos-entities",
     "gatewaySlug": "sos-entities",
-    "sourceHash": "v1-3024521e57636a075018426692d968755078cf4f3bb5d4d4a9954cb81a90c63a",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-5fc9022b4d8347c0be72f55552320c7c038f270681a4d66fcd3e90f1fd064bc7",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }

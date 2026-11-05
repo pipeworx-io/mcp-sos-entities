@@ -2,7 +2,7 @@
 
 US state business-entity registries (Secretary of State) in one normalised shape. It covers Florida, New York, Colorado, Oregon, Connecticut and Pennsylvania, plus Texas through the Comptroller's franchise-tax registrations. A record gives the entity number, legal name, type, status, formation date, principal address and registered agent, with officers given as names and roles where the state publishes them. A formation feed lists new entities in a state since a given date. Keyless.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1857+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1866+ live data sources. This is an independent, unofficial integration — not affiliated with, endorsed by, or published by the upstream provider.
 
 ## Tools
 
@@ -93,7 +93,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1857+ data sources. The
+Both URLs reach the same gateway and the same 1866+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
